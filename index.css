@@ -45,6 +45,14 @@ input {
   margin-right: 15%;
   font-size: smaller;
   padding-left: 10px;
+  border: 2px solid rgb(191, 190, 190);
+  border-radius: 15px;
+}
+
+select {
+  font-size: smaller;
+  padding-left: 10px;
+  border: 1px solid rgb(191, 190, 190);
   border-radius: 15px;
 }
 
@@ -53,7 +61,7 @@ button {
   border-radius: 20px;
   margin-top: 35px;
   padding: 10px;
-  border-color: rgb(255, 153, 11);
+  border: 2px solid rgb(231, 149, 149);
   font-weight: bold;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
