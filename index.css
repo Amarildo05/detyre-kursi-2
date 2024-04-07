@@ -8,11 +8,11 @@ body {
 
 .sign-up {
   background-color: rgb(238, 247, 247);
-  padding: 2%;
+  padding: 1%;
   margin-left: 35%;
   margin-right: 35%;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   border-radius: 10%;
 }
 
@@ -40,7 +40,7 @@ p {
 
 input {
   display: flex;
-  height: 35px;
+  height: 45px;
   margin-left: 15%;
   margin-right: 15%;
   font-size: smaller;
@@ -69,7 +69,7 @@ button {
 
 select {
   display: flex;
-  height: 35px;
+  height: 45px;
   margin-top: 6px;
   margin-left: 15%;
   margin-right: 15%;
