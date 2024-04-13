@@ -28,9 +28,8 @@ h1 {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-::placeholder {
+input::placeholder {
   font-size: smaller;
-  padding-left: 10px;
 }
 
 p {
@@ -44,7 +43,7 @@ input {
   margin-left: 15%;
   margin-right: 15%;
   font-size: smaller;
-  padding-left: 10px;
+  padding-left: 20px;
   border: 2px solid rgb(191, 190, 190);
   border-radius: 15px;
 }
